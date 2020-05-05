@@ -8,8 +8,8 @@
     </url>
     
     <url>
-        <loc>https://l-yixuan.github.io/about/</loc>
-        <lastmod>2020-04-28T15:01:23.458Z</lastmod>
+        <loc>https://l-yixuan.github.io/mylist/</loc>
+        <lastmod>2020-04-27T11:12:36.741Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -29,6 +29,13 @@
     </url>
     
     <url>
+        <loc>https://l-yixuan.github.io/about/</loc>
+        <lastmod>2020-04-27T10:49:11.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>https://l-yixuan.github.io/404.html</loc>
         <lastmod>2020-04-26T05:57:08.858Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -38,13 +45,6 @@
     <url>
         <loc>https://l-yixuan.github.io/friends/</loc>
         <lastmod>2020-04-26T03:13:46.781Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://l-yixuan.github.io/mylist/</loc>
-        <lastmod>2020-04-26T03:12:55.813Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
