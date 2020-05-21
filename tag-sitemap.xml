@@ -3,6 +3,13 @@
 
 
     <url>
+        <loc>https://l-yixuan.github.io/tags/%25E9%2581%2587%25E8%25A7%2581/</loc>
+        <lastmod>2020-05-21T09:35:53.000Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>https://l-yixuan.github.io/tags/%25E7%2596%25AB%25E6%2583%2585/</loc>
         <lastmod>2020-05-14T06:03:31.000Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -75,13 +82,6 @@
     <url>
         <loc>https://l-yixuan.github.io/tags/%25E9%2580%25B8%25E8%25BD%25A9/</loc>
         <lastmod>2020-04-26T05:59:19.000Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://l-yixuan.github.io/tags/%25E9%2581%2587%25E8%25A7%2581/</loc>
-        <lastmod>2020-04-26T05:57:19.000Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
